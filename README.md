@@ -18,7 +18,29 @@ Este projeto realiza o reconhecimento de texto em imagens utilizando o Microsoft
 
 ### Imagem de Entrada
 
-![Exemplo de Imagem](inputs/exemplo.png)
+![Exemplo de Imagem]([inputs/exemplo.png](https://github.com/DevRobertW/reconhecimento-texto-copilot/blob/main/inputs/img1.jpg))
 
 ### Resultado do Reconhecimento
+
+“A luz que me guia é mais forte do que os olhos que me cercam.”
+
+
+
+## Aprendizados e Insights
+
+Durante a realização deste projeto, aprendi a importância de...
+
+- Utilizar ferramentas de IA como o Microsoft Copilot para reconhecimento de texto.
+- Organizar e documentar projetos para facilitar a reprodução e entendimento.
+- Integrar diferentes ferramentas para otimizar o fluxo de trabalho.
+
+## Possibilidades Futuras
+
+- Adicionar suporte para múltiplos idiomas.
+- Melhorar a precisão do reconhecimento de texto com técnicas de pré-processamento de imagem.
+
+## Links Úteis
+
+- [Microsoft Copilot](https://www.microsoft.com/copilot)
+
 
