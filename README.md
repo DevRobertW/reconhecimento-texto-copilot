@@ -21,7 +21,7 @@ Este projeto realiza o reconhecimento de texto em imagens utilizando o Microsoft
 ![Exemplo de Imagem](https://github.com/DevRobertW/reconhecimento-texto-copilot/blob/main/inputs/img1.jpg)
 
 
-### Resultado do Reconhecimento
+### Texto extraido
 
 “A luz que me guia é mais forte do que os olhos que me cercam.”
 
