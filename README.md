@@ -18,7 +18,8 @@ Este projeto realiza o reconhecimento de texto em imagens utilizando o Microsoft
 
 ### Imagem de Entrada
 
-![Exemplo de Imagem]([inputs/exemplo.png](https://github.com/DevRobertW/reconhecimento-texto-copilot/blob/main/inputs/img1.jpg))
+![Exemplo de Imagem](https://github.com/DevRobertW/reconhecimento-texto-copilot/blob/main/inputs/img1.jpg)
+
 
 ### Resultado do Reconhecimento
 
